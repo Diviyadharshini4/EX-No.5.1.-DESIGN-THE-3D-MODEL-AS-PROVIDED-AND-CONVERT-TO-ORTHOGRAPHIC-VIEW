@@ -1,3 +1,5 @@
+## NAME:DIVIYADHARSHINI 
+## REF NO : 24008491
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EDM exercise 5 1](https://github.com/user-attachments/assets/8f32dc97-e9cf-4955-ac44-f60f88c725ab)
 
 
 ## RESULT:
